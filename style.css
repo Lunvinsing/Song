@@ -1,3 +1,17 @@
+h1 {
+        text-align: center;
+        font-family: Verdana;
+        border: solid;
+        border-radius: 10px;
+        border-style: dashed;
+        text-shadow: 3px 3px 5px rgb(255, 80, 229);
+}
+p {
+        font-family: sans-serif;
+}
+
 pre {
         color: rgb(0, 0, 0);
+        font-family: sans-serif;
 }
+
